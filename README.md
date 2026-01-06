@@ -76,7 +76,15 @@ MATLAB
 - MATLAB must be installed (tested with R2025b).
 - The Python script automatically passes results to MATLAB for plotting.
 
-Project Structure:
+
+## Future Improvements
+- Incorporate additional climber attributes (e.g., flexibility, grip endurance).
+- Add more detailed rest mechanics and recovery modeling.
+- Extend visualization to include success/failure probabilities per hold.
+
+## Project Structure
+
+```bash
 Rock_Climbing_Project/
 ├── src/
 │   ├── climbing_sim.py
@@ -87,7 +95,3 @@ Rock_Climbing_Project/
 └── screenshots/
     └── fatigue_line_graph.png
 
-Future Improvements
-- Incorporate additional climber attributes (e.g., flexibility, grip endurance).
-- Add more detailed rest mechanics and recovery modeling.
-- Extend visualization to include success/failure probabilities per hold.
