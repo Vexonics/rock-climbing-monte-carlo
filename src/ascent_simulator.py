@@ -18,7 +18,7 @@ class AscentSimulator:
                 return False, cumulative_fatigue
 
             if i in self.route.rest_indices:
-                cumulative_fatigue *= 0.8  # partial recovery
+                cumulative_fatigue *= 0.8 
 
         print(f"Climb completed! Total fatigue: {cumulative_fatigue:.2f}")
         return True, cumulative_fatigue
