@@ -61,7 +61,6 @@ Success probability: 59.00%
 
 ### Python Environment
 
-```bash
 # Create and activate environment
 conda create -n climbing python=3.13
 conda activate climbing
@@ -71,7 +70,7 @@ pip install numpy matlab.engine
 
 Run Simulation
 # From the project root
-python Experiments/test_climb.py
+python Experiments/test_climb.py 
 
 MATLAB
 - MATLAB must be installed (tested with R2025b).
