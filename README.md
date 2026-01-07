@@ -45,7 +45,8 @@ Success probability: 59.00%
 
 **Line graph of fatigue across trials:**  
 
-![Line Graph of Climbing Fatigue](path/to/your/screenshot.png)
+![Line Graph of Climbing Fatigue](<img width="843" height="552" alt="Screenshot 2026-01-06 at 7 14 42 PM" src="https://github.com/user-attachments/assets/d2545c8b-ea5b-4477-aab1-23ee4708ea67"/>
+
 
 ---
 
